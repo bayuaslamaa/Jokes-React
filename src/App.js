@@ -7,6 +7,7 @@ import {
   Switch
 } from 'react-router-dom'
 import Joke from './container/Joke'
+const kata = 'KATA'
 
 function App() {
   return (
